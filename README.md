@@ -1,6 +1,6 @@
 # 💫 Hi 👋, I'm Aditya 
 **A passionate JAVA FullSTACK|| Agentic AI|| 
-
+study.gif
 Email Me 👉 ✉️ **adityamahajan7278@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 I'm a passionate developer currently learning **Java Spring Boot** to become a proficient **Java Full Stack Developer**.  
@@ -16,7 +16,8 @@ I am also exploring the world of **AI agents** and continuously enhancing my ski
 - Email: adityamahajan7278@gmail.com
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/CyberVerve07) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Aditya Gupta) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Aditya Mahajan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Aditya Mahajan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/CyberVerve07) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityamahajan7287@gmail.com) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/CyberVerve07)
+ [![Instagram](https://www.instagram.com/aditya_07_mahajan?utm_source=qr&igsh=MW95NTUzdjkzb2hhNg==)](https://instagram.com/Aditya Mahajan) [![LinkedIn](https://www.linkedin.com/in/aditya-mahajan-592171353?utm_source=share_via&utm_content=profile&utm_medium=member_android)](https://linkedin.com/in/Aditya Mahajan) [![X](https://x.com/CyberVerve07?t=E6r3bMBqa29-JOJrr80fkw&s=08)](https://x.com/CyberVerve07) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityamahajan7287@gmail.com) 
 <!-- Snake Game Repo View -->
 
 <div align="center">
