@@ -9,6 +9,9 @@ I am also exploring the world of **AI agents** and continuously enhancing my ski
 - Java Spring Boot (Backend Development)
 - Advanced Java concepts
 - AI Agents and Machine Learning
+- <p align="center">
+  <img src="https://raw.githubusercontent.com/CyberVerve07/CyberVerve07/main/study.gif" width="400">
+</p>
 
 ## Skills
 - Java, Spring Boot
