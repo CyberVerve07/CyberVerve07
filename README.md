@@ -1,4 +1,6 @@
 # 💫 Hi 👋, I'm Aditya 
+![Profile views](https://komarev.com/ghpvc/?username=dbunt1tled&label=Profile%20views&color=0e75b6&style=flat)
+
 **A passionate JAVA FullSTACK|| Agentic AI|| 
 
 Email Me 👉 ✉️ **adityamahajan7278@gmail.com** For Collaboration/Project or Anything Else. 😊😊
