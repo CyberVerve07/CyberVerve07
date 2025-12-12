@@ -54,10 +54,7 @@ I am also exploring the world of **AI agents** and continuously enhancing my ski
 
 
  
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=CyberVerve07l&theme=monokai&no-frame=true&no-bg=true&margin-w=15&title=Stars,Commit,Repositories,PullRequest,Issues,Followers,Contributions,MultiLanguage" />
-</p>
+
 
 
 
