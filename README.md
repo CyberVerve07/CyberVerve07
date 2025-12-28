@@ -28,9 +28,9 @@ Email Me 👉 ✉️ **adityamahajan7278@gmail.com** For Collaboration/Project o
 I'm a passionate developer currently learning **Java Spring Boot** to become a proficient **Java Full Stack Developer**.  
 I am also exploring the world of **AI agents** and continuously enhancing my skills in artificial intelligence and machine learning.
 ## What I'm learning
-- Java Spring Boot (Backend Development)
-- Advanced Java concepts
-- AI Agents and Machine Learning
+Java Backend Developer | Spring Boot | REST APIs | Docker | MongoDB
+Building production-grade backend systems
+
 - <p align="center">
   <img src="https://raw.githubusercontent.com/CyberVerve07/CyberVerve07/main/study.gif" width="400">
 </p>
@@ -38,7 +38,6 @@ I am also exploring the world of **AI agents** and continuously enhancing my ski
 ## Skills
 - Java, Spring Boot
 - Python, AI & Machine Learning basics
-- HTML, CSS.
 - Email: adityamahajan7278@gmail.com
 
 ## 🌐 Socials:
