@@ -45,7 +45,7 @@ Building production-grade backend systems
 
 [Instagram](https://www.instagram.com/aditya_07_mahajan) 
 
-[LinkedIn](https://www.linkedin.com/in/aditya-mahajan-592171353?utm_source=share_via&utm_content=profile&utm_medium=member_android)] 
+[LinkedIn](https://www.linkedin.com/in/aditya-mahajan-592171353?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
  [X](https://x.com/CyberVerve07)
  
