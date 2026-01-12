@@ -20,16 +20,20 @@
 
 <br/>
 
+👨‍💻 About Me
 
-**A passionate JAVA FullSTACK|| Agentic AI|| 
+I'm a **BCA student** passionate about backend development and system design. I focus on building production-grade Java applications with clean architecture, REST APIs, and databases.
 
-Email Me 👉 ✉️ **adityamahajan7278@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Currently exploring **AI agents** and expanding my full-stack capabilities.
 
-I'm a passionate developer currently learning **Java Spring Boot** to become a proficient **Java Full Stack Developer**.  
-I am also exploring the world of **AI agents** and continuously enhancing my skills in artificial intelligence and machine learning.
+- 🎓 **Education:** BCA (5th Semester)
+- 📍 **Location:** Himachal Pradesh, India
+- 🔗 **Contact:** [adityamahajan7287@gmail.com](mailto:adityamahajan7287@gmail.com)
 ## What I'm learning
 Java Backend Developer | Spring Boot | REST APIs | Docker | MongoDB
 Building production-grade backend systems
+System Design
+DSA
 
 - <p align="center">
   <img src="https://raw.githubusercontent.com/CyberVerve07/CyberVerve07/main/study.gif" width="400">
