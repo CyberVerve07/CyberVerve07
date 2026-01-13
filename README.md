@@ -26,7 +26,7 @@ I'm a **BCA student** passionate about backend development and system design. I 
 
 Currently exploring **AI agents** and expanding my full-stack capabilities.
 
-- 🎓 **Education:** BCA (5th Semester)
+- 🎓 **Education:** BCA (6th Semester)
 - 📍 **Location:** Himachal Pradesh, India
 - 🔗 **Contact:** [adityamahajan7287@gmail.com](mailto:adityamahajan7287@gmail.com)
 ## What I'm learning
