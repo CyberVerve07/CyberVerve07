@@ -2,7 +2,7 @@
 <h1 align="center"># 💫 Hi 👋, I'm Aditya </h1>
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=89CFF&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile;Iam learningBackend;JAVA+|+GenAI+|+SystemDesign;AI+%26+Development+Enthusiast;Always+learning+new+things!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=89CFF&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile;Backend;JAVA+|+GenAI+|+SystemDesign;AI+%26+Development+Enthusiast;Always+learning+new+things!" alt="Typing SVG" />
   </a>
 </h3>
 
