@@ -43,19 +43,7 @@ DSA
 - Java, Spring Boot
 - Python, AI & Machine Learning basics
 - Email: adityamahajan7278@gmail.com
-
-## 🌐 Socials:
-[Discord](https://discord.gg/CyberVerve07)
-
-[Instagram](https://www.instagram.com/aditya_07_mahajan) 
-
-[LinkedIn](https://www.linkedin.com/in/aditya-mahajan-592171353?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-
- [X](https://x.com/CyberVerve07)
- 
-[email](mailto:adityamahajan7287@gmail.com) 
-<!-- Snake Game Repo View -->
-
+- 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
