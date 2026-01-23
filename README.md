@@ -39,15 +39,7 @@ DSA
   <img src="https://raw.githubusercontent.com/CyberVerve07/CyberVerve07/main/study.gif" width="400">
 </p>
 
-## Skills
-- Java, Spring Boot
-- Python, AI & Machine Learning basics
-- Email: adityamahajan7278@gmail.com
-- 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Use To Code</b> 💻
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Use To Code</b> 💻
 
 <table align="center">
   <tr>
