@@ -59,9 +59,52 @@ DSA
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Use To Code</b> 💻
 
-# 💻 Tech Stack:("Iam still Learning ")
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p># 
+<table align="center">
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=python" width="55" height="55" /><br>Python</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=ts" width="55" height="55" /><br>TypeScript</td>
+    <td align="center" width="90"><img src="https://img.shields.io/badge/openai-412991" width="55" height="55" /><br>OpenAI API</td> 
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://img.shields.io/badge/prompt%20engineering-7f00ff" width="55" height="55" /><br>Prompt Eng.</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=dotnet" width="55" height="55" /><br>.NET</td>
+    <td align="center" width="90"><img src="https://img.shields.io/badge/prisma-2d3748" width="55" height="55" /><br>Prisma</td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" /><br>Tailwind CSS</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=html" width="55" height="55" /><br>HTML</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=css" width="55" height="55" /><br>CSS</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=linux" width="55" height="55" /><br>Linux</td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=cpp" width="55" height="55" /><br>C++</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=java" width="55" height="55" /><br>Java</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" /><br>MongoDB</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" /><br>MySQL</td>
+    <td align="center" width="90"><img src="https://img.shields.io/badge/postgresql-4169e1" width="55" height="55" /><br>PostgreSQL</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=redis" width="55" height="55" /><br>Redis</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=firebase" width="55" height="55" /><br>Firebase</td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://img.shields.io/badge/system%20design-666666" width="55" height="55" /><br>System Design</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=docker" width="55" height="55" /><br>Docker</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=kubernetes" width="55" height="55" /><br>Kubernetes</td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" width="55" height="55" /><br>Git</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=github" width="55" height="55" /><br>GitHub</td>
+    <td align="center" width="90"><img src="https://img.shields.io/badge/githubcopilot-blue" width="55" height="55" /><br>GitHub Copilot</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" /><br>VS Code</td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://img.shields.io/badge/pycharm-darkgreen" width="55" height="55" /><br>PyCharm</td>
+    <td align="center" width="90"><img src="https://img.shields.io/badge/intellijIDEA-purple" width="55" height="55" /><br>IntelliJ IDEA</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=figma" width="55" height="55" /><br>Figma</td>
+    <td align="center" width="90"><img src="https://img.shields.io/badge/postman-orange" width="55" height="55" /><br>Postman</td>
+  </tr>
+</table>
 
 ## 🏆 GitHub Trophies  
 <p align="center">
