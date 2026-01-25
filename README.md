@@ -30,11 +30,6 @@ Java Backend Developer | Spring Boot | REST APIs | Docker | MongoDB
 Building production-grade backend systems
 System Design
 DSA
-
-- <p align="center">
-  <img src="https://raw.githubusercontent.com/CyberVerve07/CyberVerve07/main/study.gif" width="400">
-</p>
-
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Use To Code</b> 💻
 <table align="center">
   <tr>
