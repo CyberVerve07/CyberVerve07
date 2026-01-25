@@ -30,44 +30,7 @@ Java Backend Developer | Spring Boot | REST APIs | Docker | MongoDB
 Building production-grade backend systems
 System Design
 DSA
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Use To Code</b> 💻
-<table align="center">
-  <tr>
-   <td align="center" width="90"><img src="https://skillicons.dev/icons?i=java" width="55" height="55" /><br>Java</td>
-     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=cpp" width="55" height="55" /><br>C++</td>
-     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=python" width="55" height="55" /><br>Python</td>
 
-  <tr>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=html" width="55" height="55" /><br>HTML</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=css" width="55" height="55" /><br>CSS</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=ts" width="55" height="55" /><br>TypeScript</td>
-  </tr>
-  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" /><br>MongoDB</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" /><br>MySQL</td>
-    <td align="center" width="90"><img src="https://img.shields.io/badge/postgresql-4169e1" width="55" height="55" /><br>PostgreSQL</td>
-  </tr>
-  <tr>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=linux" width="55" height="55" /><br>Linux</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=redis" width="55" height="55" /><br>Redis</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=firebase" width="55" height="55" /><br>Firebase</td>
-  </tr>
-  <tr>
-    <td align="center" width="90"><img src="https://img.shields.io/badge/system%20design-666666" width="55" height="55" /><br>System Design</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=docker" width="55" height="55" /><br>Docker</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=kubernetes" width="55" height="55" /><br>Kubernetes</td>
-  </tr>
-  <tr>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" width="55" height="55" /><br>Git</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=github" width="55" height="55" /><br>GitHub</td>
-    <td align="center" width="90"><img src="https://img.shields.io/badge/githubcopilot-blue" width="55" height="55" /><br>GitHub Copilot</td>
-  </tr>
-  <tr>
-    <td align="center" width="90"><img src="https://img.shields.io/badge/pycharm-darkgreen" width="55" height="55" /><br>PyCharm</td>
-    <td align="center" width="90"><img src="https://img.shields.io/badge/intellijIDEA-purple" width="55" height="55" /><br>IntelliJ IDEA</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" /><br>VS Code</td>
-    <td align="center" width="90"><img src="https://img.shields.io/badge/postman-orange" width="55" height="55" /><br>Postman</td>
-  </tr>
-</table>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
